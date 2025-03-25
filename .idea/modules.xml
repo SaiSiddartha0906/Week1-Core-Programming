@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Control flow/Control flow.iml" filepath="$PROJECT_DIR$/Control flow/Control flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Methods/Java Methods.iml" filepath="$PROJECT_DIR$/Java Methods/Java Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java String/Java String.iml" filepath="$PROJECT_DIR$/Java String/Java String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming Elements/Programming Elements.iml" filepath="$PROJECT_DIR$/Programming Elements/Programming Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week 1.iml" filepath="$PROJECT_DIR$/.idea/Week 1.iml" />
+    </modules>
+  </component>
+</project>
